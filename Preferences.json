@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/User/Material-Theme-Palenight (Flake8Lint).tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_size": 14,
+	"ignored_packages":
+	[
+	],
+	"material_theme_bright_scrollbars": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"open_externally_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.pdf"
+	],
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
